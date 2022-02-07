@@ -1,0 +1,5 @@
+venv/
+timesheet/
+.vscode*
+.idea/
+__pycache__
